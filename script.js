@@ -12,7 +12,6 @@ const current0El = document.getElementById('current--0');
 const current1El = document.getElementById('current--1');
 //Starting conditions
 let isPlaying, scores, currentScore, activePlayer;
-
 const initialization = function () {
   isPlaying = true;
   currentScore = 0;
